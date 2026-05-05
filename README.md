@@ -46,6 +46,7 @@ O agente criado é capaz de:
 
 ## 👩‍💻 Integrante
 
+- Luana Ayumi Goto
 - Maria Clara Ferreira Esteves
 
 ---
