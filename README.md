@@ -46,7 +46,7 @@ O agente criado é capaz de:
 
 ## 👩‍💻 Integrante
 
-- Maria Clara
+- Maria Clara Ferreira Esteves
 
 ---
 
